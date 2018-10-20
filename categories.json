@@ -95,7 +95,7 @@
 		"13":{
 			"n":"Utility Saddle",
 			"nt":{
-				"de":"Nutzsattel",
+				"de":"Reitsattel",
 				"it":"Sella utilità"
 				"es":"Montura utilitaria"
 			},
@@ -131,7 +131,7 @@
 		"17":{
 			"n":"Shoulder Mounts",
 			"nt":{
-				"de":"Schulteraufsitzer",
+				"de":"Schultertier",
 				"it":"Supporto spalla"
 				"es":"Monta a hombros"
 			},
@@ -158,7 +158,7 @@
 		"20":{
 			"n":"Knockout Taming",
 			"nt":{
-				"de":"Beteubungs-Zähmen",
+				"de":"Betäubungs-Zähmen",
 				"it":"Domazione con incoscio"
 				"es":"Doma inconsciente"
 			},
@@ -360,7 +360,7 @@
 		"6":{
 			"n":"Diet",
 			"nt":{
-				"de":"Diät",
+				"de":"Ernährung",
 				"it":"Dieta"
 				"es":"Dieta"
 			}
@@ -372,7 +372,7 @@
 				"da":"Anvendelse",
 				"es":"Utilidad",
 				"fr":"Utilité",
-				"de":"Dienstprogramm",
+				"de":"Hilfsmittel",
 				"it":"Utilità",
 				"ja":"ユーティリティ",
 				"ko":"활용",
